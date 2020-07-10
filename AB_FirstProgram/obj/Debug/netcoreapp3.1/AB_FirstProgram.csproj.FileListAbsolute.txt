@@ -1,0 +1,13 @@
+C:\AMB\Git\abyoutubelearn\AB_FirstProgram\obj\Debug\netcoreapp3.1\AB_FirstProgram.csprojAssemblyReference.cache
+C:\AMB\Git\abyoutubelearn\AB_FirstProgram\obj\Debug\netcoreapp3.1\AB_FirstProgram.AssemblyInfoInputs.cache
+C:\AMB\Git\abyoutubelearn\AB_FirstProgram\obj\Debug\netcoreapp3.1\AB_FirstProgram.AssemblyInfo.cs
+C:\AMB\Git\abyoutubelearn\AB_FirstProgram\obj\Debug\netcoreapp3.1\AB_FirstProgram.csproj.CoreCompileInputs.cache
+C:\AMB\Git\abyoutubelearn\AB_FirstProgram\bin\Debug\netcoreapp3.1\AB_FirstProgram.exe
+C:\AMB\Git\abyoutubelearn\AB_FirstProgram\bin\Debug\netcoreapp3.1\AB_FirstProgram.deps.json
+C:\AMB\Git\abyoutubelearn\AB_FirstProgram\bin\Debug\netcoreapp3.1\AB_FirstProgram.runtimeconfig.json
+C:\AMB\Git\abyoutubelearn\AB_FirstProgram\bin\Debug\netcoreapp3.1\AB_FirstProgram.runtimeconfig.dev.json
+C:\AMB\Git\abyoutubelearn\AB_FirstProgram\bin\Debug\netcoreapp3.1\AB_FirstProgram.dll
+C:\AMB\Git\abyoutubelearn\AB_FirstProgram\bin\Debug\netcoreapp3.1\AB_FirstProgram.pdb
+C:\AMB\Git\abyoutubelearn\AB_FirstProgram\obj\Debug\netcoreapp3.1\AB_FirstProgram.dll
+C:\AMB\Git\abyoutubelearn\AB_FirstProgram\obj\Debug\netcoreapp3.1\AB_FirstProgram.pdb
+C:\AMB\Git\abyoutubelearn\AB_FirstProgram\obj\Debug\netcoreapp3.1\AB_FirstProgram.genruntimeconfig.cache
