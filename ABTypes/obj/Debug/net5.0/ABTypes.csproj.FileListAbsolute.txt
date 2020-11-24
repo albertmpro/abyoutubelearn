@@ -1,0 +1,16 @@
+C:\AMB\Git\abyoutubelearn\ABTypes\bin\Debug\net5.0\ABTypes.exe
+C:\AMB\Git\abyoutubelearn\ABTypes\bin\Debug\net5.0\ABTypes.deps.json
+C:\AMB\Git\abyoutubelearn\ABTypes\bin\Debug\net5.0\ABTypes.runtimeconfig.json
+C:\AMB\Git\abyoutubelearn\ABTypes\bin\Debug\net5.0\ABTypes.runtimeconfig.dev.json
+C:\AMB\Git\abyoutubelearn\ABTypes\bin\Debug\net5.0\ABTypes.dll
+C:\AMB\Git\abyoutubelearn\ABTypes\bin\Debug\net5.0\ref\ABTypes.dll
+C:\AMB\Git\abyoutubelearn\ABTypes\bin\Debug\net5.0\ABTypes.pdb
+C:\AMB\Git\abyoutubelearn\ABTypes\obj\Debug\net5.0\ABTypes.csprojAssemblyReference.cache
+C:\AMB\Git\abyoutubelearn\ABTypes\obj\Debug\net5.0\ABTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMB\Git\abyoutubelearn\ABTypes\obj\Debug\net5.0\ABTypes.AssemblyInfoInputs.cache
+C:\AMB\Git\abyoutubelearn\ABTypes\obj\Debug\net5.0\ABTypes.AssemblyInfo.cs
+C:\AMB\Git\abyoutubelearn\ABTypes\obj\Debug\net5.0\ABTypes.csproj.CoreCompileInputs.cache
+C:\AMB\Git\abyoutubelearn\ABTypes\obj\Debug\net5.0\ABTypes.dll
+C:\AMB\Git\abyoutubelearn\ABTypes\obj\Debug\net5.0\ref\ABTypes.dll
+C:\AMB\Git\abyoutubelearn\ABTypes\obj\Debug\net5.0\ABTypes.pdb
+C:\AMB\Git\abyoutubelearn\ABTypes\obj\Debug\net5.0\ABTypes.genruntimeconfig.cache

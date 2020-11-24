@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AMB\\Git\\abyoutubelearn\\AB_FirstProgram\\AB_FirstProgram.csproj": {}
+    "C:\\AMB\\Git\\abyoutubelearn\\ABTypes\\ABTypes.csproj": {}
   },
   "projects": {
-    "C:\\AMB\\Git\\abyoutubelearn\\AB_FirstProgram\\AB_FirstProgram.csproj": {
+    "C:\\AMB\\Git\\abyoutubelearn\\ABTypes\\ABTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AMB\\Git\\abyoutubelearn\\AB_FirstProgram\\AB_FirstProgram.csproj",
-        "projectName": "AB_FirstProgram",
-        "projectPath": "C:\\AMB\\Git\\abyoutubelearn\\AB_FirstProgram\\AB_FirstProgram.csproj",
+        "projectUniqueName": "C:\\AMB\\Git\\abyoutubelearn\\ABTypes\\ABTypes.csproj",
+        "projectName": "ABTypes",
+        "projectPath": "C:\\AMB\\Git\\abyoutubelearn\\ABTypes\\ABTypes.csproj",
         "packagesPath": "C:\\Users\\alxp2\\.nuget\\packages\\",
-        "outputPath": "C:\\AMB\\Git\\abyoutubelearn\\AB_FirstProgram\\obj\\",
+        "outputPath": "C:\\AMB\\Git\\abyoutubelearn\\ABTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,14 +23,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -41,7 +42,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
