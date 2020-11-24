@@ -1,0 +1,16 @@
+C:\AMB\Git\abyoutubelearn\ABScriptKids\bin\Debug\net5.0\ABScriptKids.exe
+C:\AMB\Git\abyoutubelearn\ABScriptKids\bin\Debug\net5.0\ABScriptKids.deps.json
+C:\AMB\Git\abyoutubelearn\ABScriptKids\bin\Debug\net5.0\ABScriptKids.runtimeconfig.json
+C:\AMB\Git\abyoutubelearn\ABScriptKids\bin\Debug\net5.0\ABScriptKids.runtimeconfig.dev.json
+C:\AMB\Git\abyoutubelearn\ABScriptKids\bin\Debug\net5.0\ABScriptKids.dll
+C:\AMB\Git\abyoutubelearn\ABScriptKids\bin\Debug\net5.0\ref\ABScriptKids.dll
+C:\AMB\Git\abyoutubelearn\ABScriptKids\bin\Debug\net5.0\ABScriptKids.pdb
+C:\AMB\Git\abyoutubelearn\ABScriptKids\obj\Debug\net5.0\ABScriptKids.csprojAssemblyReference.cache
+C:\AMB\Git\abyoutubelearn\ABScriptKids\obj\Debug\net5.0\ABScriptKids.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMB\Git\abyoutubelearn\ABScriptKids\obj\Debug\net5.0\ABScriptKids.AssemblyInfoInputs.cache
+C:\AMB\Git\abyoutubelearn\ABScriptKids\obj\Debug\net5.0\ABScriptKids.AssemblyInfo.cs
+C:\AMB\Git\abyoutubelearn\ABScriptKids\obj\Debug\net5.0\ABScriptKids.csproj.CoreCompileInputs.cache
+C:\AMB\Git\abyoutubelearn\ABScriptKids\obj\Debug\net5.0\ABScriptKids.dll
+C:\AMB\Git\abyoutubelearn\ABScriptKids\obj\Debug\net5.0\ref\ABScriptKids.dll
+C:\AMB\Git\abyoutubelearn\ABScriptKids\obj\Debug\net5.0\ABScriptKids.pdb
+C:\AMB\Git\abyoutubelearn\ABScriptKids\obj\Debug\net5.0\ABScriptKids.genruntimeconfig.cache
